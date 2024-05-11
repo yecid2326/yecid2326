@@ -30,5 +30,5 @@ Lenguajes de programación:
 
 LinkedIn:
 <div>
-  <a href="https://www.linkedin.com/in/andres-yecid-pulido-fajardo-7a88a6240/"><img src="![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)"></a>
+  <a href="https://www.linkedin.com/in/andres-yecid-pulido-fajardo-7a88a6240/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>

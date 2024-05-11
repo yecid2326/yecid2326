@@ -1,4 +1,4 @@
-![Banner](https://github.com/yecid2326/yecid2326/assets/144077966/68eff912-4471-4ae6-be24-bc5070a366cd)
+![Banner](https://github.com/yecid2326/yecid2326/assets/144077966/04af4fae-a13f-456e-a3b6-5f7c05507481)
 
 Mi descripción:
 Desarrollo full stack - Angular - NodeJS - Mongo DB

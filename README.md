@@ -28,7 +28,7 @@ Lenguajes de programación:
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515)
 
-LinkedIn:
+Redes sociales:
 <div>
   <a href="https://www.linkedin.com/in/andres-yecid-pulido-fajardo-7a88a6240/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
